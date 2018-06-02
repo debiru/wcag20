@@ -117,7 +117,7 @@ change.innerText = "こんにちは";
          </description>
       </eg-group>
 	<eg-group>
-		<head>EnhanceJS を使用する―プログレッシブエンハンスメントのアプリケーションを改善するために設計された Javascript フレームワーク</head>
+		<head>EnhanceJS を使用する――プログレッシブエンハンスメントのアプリケーションを改善するために設計された Javascript フレームワーク</head>
 		<description>
 <p><loc href="https://code.google.com/p/enhancejs/">EnhanceJS</loc> は「高度なスタイルとスクリプトをページに適用する前に、JavaScript の主要な機能と CSS のサポートを最初にテストすることで、プログレッシブエンハンスメントのアプリケーションを改善するように設計された」オープンソースの JavaScript フレームワークである。さらに、デフォルトの EnhanceJS スクリプトは、利用者が拡張前のウェブページの状態に戻すことがでるよう、すべての拡張版のページに自動的に切り替えリンクを作成する。(EnhanceJS でデフォルトで設定されるこれを「低帯域幅版」と呼ぶ)。EnhanceJS ではこの設定は拡張前の状態が「低帯域幅版」ではなく、「WCAG 2.0 の適合している代替版」として認識されるよう変更されている。</p>
 <p>HTML コンポーネント:</p>		
